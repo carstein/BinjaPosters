@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3508 2481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-17.9786,-209.612)">
+        <text x="1233.72px" y="496.202px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:150px;">Binary Ninja API</text>
+    </g>
+    <g transform="matrix(1,0,0,1,396.628,203.289)">
+        <text x="2742.23px" y="2094.88px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:41.667px;">@carste1n</text>
+    </g>
+    <g>
+        <g transform="matrix(1,0,0,1,-33.5945,119.737)">
+            <rect x="1649" y="945" width="236" height="295.157" style="fill:white;stroke:black;stroke-width:8.33px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-20.5315,-30.5797)">
+            <path d="M1635.94,1095.32L1677,1039" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,215.469,-30.5797)">
+            <path d="M1635.94,1095.32L1677,1039" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,215.469,264.578)">
+            <path d="M1635.94,1095.32L1677,1039" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-20.5315,-30.5797)">
+            <path d="M1677,1039L1913,1039L1913,1334.16" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+        </g>
+    </g>
+    <g id="Code" transform="matrix(1,0,0,1,-1781.02,49.3689)">
+        <text x="1954.28px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+        <text x="2036.75px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;">=</text>
+        <text x="2091.73px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">BinaryViewType</text>
+        <text x="2476.59px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;">[&apos;</text>
+        <text x="2531.57px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(47,150,58);">ELF</text>
+        <text x="2614.05px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;">&apos;].open(&apos;</text>
+        <text x="2861.46px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(47,150,58);">/bin/ls</text>
+        <text x="3053.89px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;">&apos;</text>
+        <text x="3081.38px" y="1089.29px" style="font-family:'Consolas', monospace;font-size:50px;">)</text>
+        <text x="1954.28px" y="1147.84px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+        <text x="2009.26px" y="1147.84px" style="font-family:'Consolas', monospace;font-size:50px;">.add_analysis_option(&apos;</text>
+        <text x="2614.05px" y="1147.84px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(47,150,58);">linearsweep</text>
+        <text x="2916.44px" y="1147.84px" style="font-family:'Consolas', monospace;font-size:50px;">&apos;)</text>
+        <text x="1954.28px" y="1206.38px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+        <text x="2009.26px" y="1206.38px" style="font-family:'Consolas', monospace;font-size:50px;">.update_analysis_and_wait()</text>
+    </g>
+    <g id="Static-properties-3" serif:id="Static properties 3" transform="matrix(0.962145,0,0,0.884735,257.166,-218.831)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;stroke:black;stroke-width:4.57px;"/>
+    </g>
+    <g id="Static-properties-2" serif:id="Static properties 2" transform="matrix(0.962145,0,0,0.884735,221.8,-183.398)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;stroke:black;stroke-width:4.57px;"/>
+    </g>
+    <g id="Static-properties" serif:id="Static properties" transform="matrix(0.962145,0,0,0.884735,186.3,-148.158)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;"/>
+        <g transform="matrix(1.50047,0,0,1.13028,-1060.58,-120.192)">
+            <path d="M2440,803.25C2440,792.626 2434.03,784 2426.67,784L2088.33,784C2080.97,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2080.97,861 2088.33,861L2426.67,861C2434.03,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:3.4px;"/>
+        </g>
+        <g transform="matrix(1.04717,0,0,1.13028,-141.04,-101.248)">
+            <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+            <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.platform</text>
+        </g>
+        <g transform="matrix(1.52342,0,0,1.13028,-1108.2,1.87852)">
+            <path d="M2440,803.25C2440,792.626 2434.12,784 2426.87,784L2088.13,784C2080.89,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2080.89,861 2088.13,861L2426.87,861C2434.12,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:3.37px;"/>
+        </g>
+        <g transform="matrix(1.04717,0,0,1.13028,-139.603,20.7401)">
+            <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+            <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.entry_function</text>
+        </g>
+        <rect x="2016" y="710" width="634" height="321" style="fill:none;stroke:black;stroke-width:4.57px;"/>
+    </g>
+    <g id="Iterable-properties-3" serif:id="Iterable properties 3" transform="matrix(0.766562,0,0,1.62928,651.462,-304.524)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;stroke:black;stroke-width:3.32px;"/>
+    </g>
+    <g id="Iterable-properties-2" serif:id="Iterable properties 2" transform="matrix(0.766562,0,0,1.62928,616.096,-269.09)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;stroke:black;stroke-width:3.32px;"/>
+    </g>
+    <g id="Iterable-properties" serif:id="Iterable properties" transform="matrix(0.766562,0,0,1.62928,580.596,-234.134)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;"/>
+        <g transform="matrix(1.30453,0,0,0.613767,-613.926,-28.5645)">
+            <g transform="matrix(1,0,0,1,-17.1396,632.1)">
+                <g transform="matrix(1.07123,0,0,1,-154.169,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2431.95,784 2422.03,784L2092.97,784C2083.05,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2083.05,861 2092.97,861L2422.03,861C2431.95,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:4.08px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-29.9497)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.functions</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,507.653)">
+                <g transform="matrix(1.07123,0,0,1,-154.169,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2431.95,784 2422.03,784L2092.97,784C2083.05,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2083.05,861 2092.97,861L2422.03,861C2431.95,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:4.08px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-35.0034)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.segments</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,756)">
+                <g transform="matrix(1.07123,0,0,1,-154.169,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2431.95,784 2422.03,784L2092.97,784C2083.05,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2083.05,861 2092.97,861L2422.03,861C2431.95,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:4.08px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.strings</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,880)">
+                <g transform="matrix(1.07123,0,0,1,-154.169,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2431.95,784 2422.03,784L2092.97,784C2083.05,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2083.05,861 2092.97,861L2422.03,861C2431.95,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:4.08px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.types</text>
+                </g>
+            </g>
+        </g>
+        <rect x="2016" y="710" width="634" height="321" style="fill:none;stroke:black;stroke-width:3.32px;"/>
+    </g>
+    <g id="Helper-functions-3" serif:id="Helper functions 3" transform="matrix(1.37855,0,0,2.03427,-582.304,66.7126)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;stroke:black;stroke-width:2.43px;"/>
+    </g>
+    <g id="Helper-functions-2" serif:id="Helper functions 2" transform="matrix(1.37855,0,0,2.03427,-617.737,102.146)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;stroke:black;stroke-width:2.43px;"/>
+    </g>
+    <g id="Helper-functions" serif:id="Helper functions" transform="matrix(1.37855,0,0,2.03427,-653.17,137.819)">
+        <rect x="2016" y="710" width="634" height="321" style="fill:white;"/>
+        <g transform="matrix(0.7254,0,0,0.491577,553.593,-179.266)">
+            <g transform="matrix(1,0,0,1,-17.1396,1117)">
+                <g transform="matrix(2.21096,0,0,1,-2519.1,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2436.1,784 2431.29,784L2083.71,784C2078.9,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2078.9,861 2083.71,861L2431.29,861C2436.1,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:2.46px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.get_disassembly(</text>
+                    <text x="2647.87px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(29,39,235);">0x1000</text>
+                    <text x="2812.81px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">)</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,1241)">
+                <g transform="matrix(2.18904,0,0,1,-2473.62,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2436.06,784 2431.21,784L2083.79,784C2078.94,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2078.94,861 2083.79,861L2431.21,861C2436.06,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:2.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.get_code_refs(</text>
+                    <text x="2592.89px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(29,39,235);">0x1000</text>
+                    <text x="2757.83px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">)</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,1365)">
+                <g transform="matrix(2.18904,0,0,1,-2473.62,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2436.06,784 2431.21,784L2083.79,784C2078.94,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2078.94,861 2083.79,861L2431.21,861C2436.06,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:2.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.get_functions_at(</text>
+                    <text x="2675.36px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(29,39,235);">0x1000</text>
+                    <text x="2840.3px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">)</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,1489)">
+                <g transform="matrix(2.18904,0,0,1,-2473.62,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2436.06,784 2431.21,784L2083.79,784C2078.94,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2078.94,861 2083.79,861L2431.21,861C2436.06,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:2.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.read(</text>
+                    <text x="2345.47px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(29,39,235);">0x1000</text>
+                    <text x="2510.41px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">,</text>
+                    <text x="2565.4px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(29,39,235);">0x10</text>
+                    <text x="2675.36px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">)</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-17.1396,1613)">
+                <g transform="matrix(2.18904,0,0,1,-2473.62,-51.4956)">
+                    <path d="M2440,803.25C2440,792.626 2436.06,784 2431.21,784L2083.79,784C2078.94,784 2075,792.626 2075,803.25L2075,841.75C2075,852.374 2078.94,861 2083.79,861L2431.21,861C2436.06,861 2440,852.374 2440,841.75L2440,803.25Z" style="fill:white;stroke:black;stroke-width:2.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-26.4633,-34.8569)">
+                    <text x="2125.55px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,0);">bv</text>
+                    <text x="2180.53px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">.write(</text>
+                    <text x="2372.96px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(29,39,235);">0x1000</text>
+                    <text x="2537.91px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">, &apos;</text>
+                    <text x="2620.38px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(47,150,58);">AAAA</text>
+                    <text x="2730.34px" y="818.129px" style="font-family:'Consolas', monospace;font-size:50px;">&apos;)</text>
+                </g>
+            </g>
+        </g>
+        <rect x="2016" y="710" width="634" height="321" style="fill:none;stroke:black;stroke-width:2.43px;"/>
+    </g>
+    <g id="arrow">
+        <g transform="matrix(0.857923,0,0,1,199.213,-56)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.53px;"/>
+        </g>
+        <g transform="matrix(4.32346e-17,0.692308,-0.608696,3.80131e-17,2231.35,148.465)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6.48px;"/>
+        </g>
+    </g>
+    <g id="arrow1" serif:id="arrow">
+        <g transform="matrix(4.32346e-17,0.692308,-0.608696,3.80131e-17,2758.35,148.465)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6.48px;"/>
+        </g>
+        <g transform="matrix(0.861054,0,0,1,266.703,0)">
+            <path d="M1919.47,1184.16L2085,1184.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.53px;"/>
+        </g>
+    </g>
+    <g id="arrow2" serif:id="arrow">
+        <g transform="matrix(4.32346e-17,0.692308,-0.608696,3.80131e-17,2758.35,-424.692)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6.48px;"/>
+        </g>
+        <g transform="matrix(0.930527,0,0,1,121.852,0)">
+            <path d="M1753.94,945L2030,611L2085,611" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.37px;"/>
+        </g>
+    </g>
+    <g id="arrow3" serif:id="arrow">
+        <g transform="matrix(4.32346e-17,0.692308,-0.608696,3.80131e-17,2758.35,872.957)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6.48px;"/>
+        </g>
+        <path d="M1753.94,1420L1990.73,1908.65L2062,1908.65" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.22px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-181.08,182.48)">
+        <text x="609.045px" y="1700.09px" style="font-family:'Lato-Italic', 'Lato', sans-serif;font-style:italic;font-size:50px;fill:rgb(139,139,139);">BinaryView implements a view on binary data,</text>
+        <text x="609.045px" y="1750.09px" style="font-family:'Lato-Italic', 'Lato', sans-serif;font-style:italic;font-size:50px;fill:rgb(139,139,139);">and pr<tspan x="738.995px 762.045px " y="1750.09px 1750.09px ">es</tspan>ents a query<tspan x="1027.22px 1052.47px " y="1750.09px 1750.09px ">ab</tspan>le interface of a binary ﬁle.</text>
+    </g>
+    <g transform="matrix(0.00080612,-1,1,0.00080612,2507.11,3696.69)">
+        <text x="3016.23px" y="710.169px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:75px;fill:rgb(139,139,139);">static</text>
+        <text x="2933.8px" y="785.169px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:75px;fill:rgb(139,139,139);">properties</text>
+    </g>
+    <g transform="matrix(0.00080612,-1,1,0.00080612,2507.24,4294.08)">
+        <text x="2978.62px" y="710.169px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:75px;fill:rgb(139,139,139);">iter<tspan x="3097.6px 3136.87px " y="710.169px 710.169px ">ab</tspan>le</text>
+        <text x="2933.8px" y="785.169px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:75px;fill:rgb(139,139,139);">properties</text>
+    </g>
+    <g transform="matrix(0.00080612,-1,1,0.00080612,2519.14,5000.51)">
+        <text x="3001.23px" y="710.169px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:75px;fill:rgb(139,139,139);">helper</text>
+        <text x="2968.34px" y="785.169px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:75px;fill:rgb(139,139,139);">function</text>
+    </g>
+</svg>

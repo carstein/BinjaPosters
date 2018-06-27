@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3508 2481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-17.9786,-209.612)">
+        <text x="1233.72px" y="496.202px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:150px;">Binary Ninja API</text>
+    </g>
+    <g transform="matrix(1,0,0,1,396.628,203.289)">
+        <text x="2742.23px" y="2094.88px" style="font-family:'Lato-Regular', 'Lato', sans-serif;font-size:41.667px;">@carste1n</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1579.09,-1089.19)">
+        <text x="609.045px" y="1700.09px" style="font-family:'Lato-Italic', 'Lato', sans-serif;font-style:italic;font-size:50px;fill:rgb(139,139,139);">F<tspan x="633.57px 659.82px " y="1700.09px 1700.09px ">un</tspan>ction object r<tspan x="949.42px 972.47px 998.37px 1014.92px 1037.97px " y="1700.09px 1700.09px 1700.09px 1700.09px 1700.09px ">epres</tspan>ent a multifaceted view</text>
+        <text x="609.045px" y="1750.09px" style="font-family:'Lato-Italic', 'Lato', sans-serif;font-style:italic;font-size:50px;fill:rgb(139,139,139);">on blocks and instructions belonging to it.</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-174.3,-146.003)">
+        <g transform="matrix(1.26825,0,0,1.13224,-263.617,-146.97)">
+            <path d="M1486,1127.06C1486,1118.42 1479.74,1111.41 1472.03,1111.41L951.969,1111.41C944.259,1111.41 938,1118.42 938,1127.06L938,1158.35C938,1166.99 944.259,1174 951.969,1174L1472.03,1174C1479.74,1174 1486,1166.99 1486,1158.35L1486,1127.06Z" style="fill:none;stroke:black;stroke-width:3.47px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-901.708,439.403)">
+            <text x="1858.7px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">blocks = f.basic_blocks</text>
+        </g>
+    </g>
+    <g transform="matrix(1.26825,0,0,1.13224,-437.916,-292.973)">
+        <path d="M1486,1127.06C1486,1118.42 1479.74,1111.41 1472.03,1111.41L951.969,1111.41C944.259,1111.41 938,1118.42 938,1127.06L938,1158.35C938,1166.99 944.259,1174 951.969,1174L1472.03,1174C1479.74,1174 1486,1166.99 1486,1158.35L1486,1127.06Z" style="fill:none;stroke:black;stroke-width:3.47px;"/>
+    </g>
+    <g transform="matrix(1.01608,0,0,1,-53.5604,-168.507)">
+        <g transform="matrix(3.21139,0,0,1.13224,-1441.42,198.627)">
+            <path d="M1486,1127.06C1486,1118.42 1483.57,1111.41 1480.57,1111.41L943.429,1111.41C940.433,1111.41 938,1118.42 938,1127.06L938,1158.35C938,1166.99 940.433,1174 943.429,1174L1480.57,1174C1483.57,1174 1486,1166.99 1486,1158.35L1486,1127.06Z" style="fill:none;stroke:black;stroke-width:1.71px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,228.169,785)">
+            <text x="1844.96px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">blocks = blocks.ssa_form</text>
+        </g>
+    </g>
+    <g transform="matrix(4.70708,0,0,2.64189,-3664.01,-1375.21)">
+        <path d="M1486,1127.06C1486,1118.42 1482.07,1111.41 1477.22,1111.41L946.782,1111.41C941.935,1111.41 938,1118.42 938,1127.06L938,1158.35C938,1166.99 941.935,1174 946.782,1174L1477.22,1174C1482.07,1174 1486,1166.99 1486,1158.35L1486,1127.06Z" style="fill:none;stroke:black;stroke-width:1.09px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-1076.01,293.4)">
+        <text x="1858.7px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">blocks = f.basic_blocks</text>
+    </g>
+    <g transform="matrix(1.03401,0,0,1,304.15,-294)">
+        <g transform="matrix(1.51825,0,0,1.13224,670.883,1.02687)">
+            <path d="M1486,1127.06C1486,1118.42 1480.94,1111.41 1474.71,1111.41L949.285,1111.41C943.057,1111.41 938,1118.42 938,1127.06L938,1158.35C938,1166.99 943.057,1174 949.285,1174L1474.71,1174C1480.94,1174 1486,1166.99 1486,1158.35L1486,1127.06Z" style="fill:none;stroke:black;stroke-width:3.04px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,336.292,587.4)">
+            <text x="1789.98px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">blocks = f.mlil_basic_blocks</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-175.433,-136)">
+        <g transform="matrix(1.52007,0,0,1.13224,292.172,-156.973)">
+            <path d="M1486,1127.06C1486,1118.42 1480.78,1111.41 1474.35,1111.41L949.655,1111.41C943.222,1111.41 938,1118.42 938,1127.06L938,1158.35C938,1166.99 943.222,1174 949.655,1174L1474.35,1174C1480.78,1174 1486,1166.99 1486,1158.35L1486,1127.06Z" style="fill:none;stroke:black;stroke-width:3.11px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-39.9485,429.4)">
+            <text x="1789.98px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">blocks = f.llil_basic_blocks</text>
+        </g>
+    </g>
+    <g id="function-icon" serif:id="function icon" transform="matrix(1,0,0,1,-168.044,-590.54)">
+        <g transform="matrix(1.16365,0,0,1,-328.768,0)">
+            <path d="M2009,1064.74L2009,1359.89L2212,1359.89L2212,1112.96" style="fill:none;stroke:black;stroke-width:7.68px;"/>
+        </g>
+        <path d="M2009,1064.74L2197,1064.74L2245.22,1112.96L2197,1112.96L2197,1064.74" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-171.339,906.85)">
+        <text x="1899.94px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,23);">for</text>
+        <text x="2009.9px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">instr</text>
+        <text x="2174.84px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,23);">in</text>
+        <text x="2257.31px" y="719.831px" style="font-family:'Consolas', monospace;font-size:50px;">blocks:</text>
+        <text x="2009.9px" y="778.376px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(255,0,23);">print</text>
+        <text x="2147.35px" y="778.376px" style="font-family:'Consolas', monospace;font-size:50px;">(instr)</text>
+    </g>
+    <g id="block-icons" serif:id="block icons" transform="matrix(1,0,0,1,-1267.09,-634.66)">
+        <g transform="matrix(1,-0,-0,1,1267.09,634.66)">
+            <use xlink:href="#_Image1" x="214.539" y="878.632" width="270.464px" height="211.417px" transform="matrix(0.998024,0,0,0.99725,0,0)"/>
+        </g>
+        <g transform="matrix(1.11425,0,0,1.15794,1012.13,570.258)">
+            <rect x="430" y="821" width="212" height="153" style="fill:white;stroke:black;stroke-width:3.72px;"/>
+        </g>
+        <g transform="matrix(1,-0,-0,1,1267.09,634.66)">
+            <use xlink:href="#_Image1" x="190.491" y="902.077" width="270.464px" height="211.417px" transform="matrix(0.998024,0,0,0.99725,0,0)"/>
+        </g>
+        <g transform="matrix(1.11425,0,0,1.15794,988.13,593.639)">
+            <rect x="430" y="821" width="212" height="153" style="fill:white;stroke:black;stroke-width:3.72px;"/>
+        </g>
+        <g transform="matrix(1,-0,-0,1,1267.09,634.66)">
+            <use xlink:href="#_Image1" x="167.445" y="926.739" width="270.464px" height="211.417px" transform="matrix(0.998024,0,0,0.99725,0,0)"/>
+        </g>
+        <g transform="matrix(1.11425,0,0,1.15794,965.13,618.233)">
+            <rect x="430" y="821" width="212" height="153" style="fill:white;stroke:black;stroke-width:3.72px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,5.68434e-14,-54.6571)">
+        <g id="ssa-icons" serif:id="ssa icons" transform="matrix(1,0,0,1,11.811,-99.1577)">
+            <g transform="matrix(1,-0,-0,1,-11.811,153.815)">
+                <use xlink:href="#_Image2" x="191.114" y="1328.96" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+            </g>
+            <g transform="matrix(0.855871,0,0,0.738318,-255.221,360.441)">
+                <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:rgb(128,128,128);stroke-width:5.29px;"/>
+            </g>
+            <g transform="matrix(1,-0,-0,1,-11.811,153.815)">
+                <use xlink:href="#_Image2" x="179.28" y="1340.03" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+            </g>
+            <g transform="matrix(0.855871,0,0,0.738318,-267.032,371.441)">
+                <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:black;stroke-width:5.29px;"/>
+            </g>
+            <g transform="matrix(1,-0,-0,1,-11.811,153.815)">
+                <use xlink:href="#_Image2" x="167.445" y="1351.01" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+            </g>
+            <g transform="matrix(0.855871,0,0,0.738318,-278.843,382.363)">
+                <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:rgb(128,128,128);stroke-width:5.29px;"/>
+            </g>
+        </g>
+        <g id="ssa-icons1" serif:id="ssa icons" transform="matrix(1,0,0,1,11.811,-187.158)">
+            <g transform="matrix(1,-0,-0,1,-11.811,241.815)">
+                <use xlink:href="#_Image2" x="191.114" y="1240.45" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+            </g>
+            <g transform="matrix(0.855871,0,0,0.738318,-255.221,360.441)">
+                <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:rgb(128,128,128);stroke-width:5.29px;"/>
+            </g>
+            <g transform="matrix(1,-0,-0,1,-11.811,241.815)">
+                <use xlink:href="#_Image2" x="179.28" y="1251.51" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+            </g>
+            <g transform="matrix(0.855871,0,0,0.738318,-267.032,371.441)">
+                <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:black;stroke-width:5.29px;"/>
+            </g>
+            <g transform="matrix(1,-0,-0,1,-11.811,241.815)">
+                <use xlink:href="#_Image2" x="167.445" y="1262.5" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+            </g>
+            <g transform="matrix(0.855871,0,0,0.738318,-278.843,382.363)">
+                <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:rgb(128,128,128);stroke-width:5.29px;"/>
+            </g>
+        </g>
+    </g>
+    <g id="instruction-icon" serif:id="instruction icon" transform="matrix(1,0,0,1,-154,112.897)">
+        <g transform="matrix(1,-0,-0,1,154,-112.897)">
+            <use xlink:href="#_Image2" x="167.445" y="1539.89" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+        </g>
+        <g transform="matrix(0.855871,0,0,0.738318,-113.032,303.441)">
+            <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:black;stroke-width:5.29px;"/>
+        </g>
+        <g transform="matrix(1,-0,-0,1,154,-112.897)">
+            <use xlink:href="#_Image2" x="167.445" y="1617.34" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+        </g>
+        <g transform="matrix(0.855871,0,0,0.738318,-113.032,380.441)">
+            <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:black;stroke-width:5.29px;"/>
+        </g>
+        <g transform="matrix(1,-0,-0,1,154,-112.897)">
+            <use xlink:href="#_Image2" x="167.445" y="1694.79" width="270.464px" height="81.526px" transform="matrix(0.998024,0,0,0.99422,0,0)"/>
+        </g>
+        <g transform="matrix(0.855871,0,0,0.738318,-113.032,457.441)">
+            <rect x="519" y="1523.36" width="276" height="63.989" style="fill:white;stroke:black;stroke-width:5.29px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,0.912281,-34.2996,-3.97368)">
+        <g transform="matrix(5.06008e-17,0.857923,-1,5.89806e-17,3708.94,337.713)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.7px;stroke-dasharray:14.11,14.11,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,3504.48,2369.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6.73px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1.17544,440.913,-719.553)">
+        <g transform="matrix(5.06008e-17,0.857923,-1,5.89806e-17,3708.94,337.713)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.21px;stroke-dasharray:12.62,12.62,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,3504.48,2369.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1.17544,-520.087,-719.553)">
+        <g transform="matrix(5.06008e-17,0.857923,-1,5.89806e-17,3708.94,337.713)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.21px;stroke-dasharray:12.62,12.62,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,3504.48,2369.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,0.818713,-520.087,-430.541)">
+        <g transform="matrix(5.06008e-17,0.857923,-1,5.89806e-17,3708.94,337.713)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.89px;stroke-dasharray:14.67,14.67,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,3504.48,2369.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:7px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,0.818713,-1382.09,-430.541)">
+        <g transform="matrix(2.83738e-17,0.481069,-1,5.89806e-17,3708.94,924.475)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:5.56px;stroke-dasharray:16.67,16.67,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,3504.48,2369.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:7px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,0.818713,440.913,-430.541)">
+        <g transform="matrix(2.83738e-17,0.481069,-1,5.89806e-17,3708.94,924.475)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:5.56px;stroke-dasharray:16.67,16.67,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,3504.48,2369.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:7px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-19.2996,-138)">
+        <g transform="matrix(1.47774e-16,2.50546,-1,5.89806e-17,2346.16,-2241.51)">
+            <path d="M1374,1240.16L1557,1240.16" style="fill:none;stroke:rgb(255,0,23);stroke-width:2.21px;stroke-dasharray:6.64,6.64,0,0;"/>
+        </g>
+        <g transform="matrix(-0.692308,8.40674e-17,-7.39143e-17,-0.608696,2141.69,2355.85)">
+            <path d="M1496,1121L1509,1144L1483,1144L1496,1121Z" style="fill:rgb(255,0,23);stroke:rgb(255,0,23);stroke-width:6.48px;"/>
+        </g>
+    </g>
+    <g transform="matrix(0.985405,0,0,1,5.71063,2)">
+        <path d="M1097,865.5L2947,865.5" style="fill:none;stroke:rgb(255,0,23);stroke-width:4.2px;stroke-dasharray:12.59,12.59,0,0;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,288.533,41)">
+        <text x="596.187px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">push</text>
+        <text x="733.638px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x24</text>
+        <text x="596.187px" y="1916.12px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">push</text>
+        <text x="733.638px" y="1916.12px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x80484e0</text>
+        <text x="596.187px" y="1974.67px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">push</text>
+        <text x="733.638px" y="1974.67px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x1</text>
+        <text x="596.187px" y="2033.21px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">call</text>
+        <text x="733.638px" y="2033.21px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(54,163,202);">write</text>
+        <text x="596.187px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">add</text>
+        <text x="706.148px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(221,168,0);">esp</text>
+        <text x="788.618px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(224,224,224);">,</text>
+        <text x="843.599px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x10</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1132.24,41)">
+        <text x="596.187px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">push(</text>
+        <text x="733.638px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x24</text>
+        <text x="843.599px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">)</text>
+        <text x="596.187px" y="1916.12px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">push(</text>
+        <text x="733.638px" y="1916.12px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x80484e0</text>
+        <text x="981.05px" y="1916.12px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">)</text>
+        <text x="596.187px" y="1974.67px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">push(</text>
+        <text x="733.638px" y="1974.67px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">1</text>
+        <text x="761.128px" y="1974.67px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">)</text>
+        <text x="596.187px" y="2033.21px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">call(</text>
+        <text x="733.638px" y="2033.21px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(54,163,202);">write</text>
+        <text x="871.089px" y="2033.21px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">)</text>
+        <text x="596.187px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(221,168,0);">esp</text>
+        <text x="706.148px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">=</text>
+        <text x="761.128px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(221,168,0);">esp</text>
+        <text x="871.089px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">+</text>
+        <text x="926.07px" y="2091.76px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x10</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1889.65,42.8555)">
+        <text x="596.187px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(221,168,0);">eax</text>
+        <text x="706.148px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">=</text>
+        <text x="761.128px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(54,163,202);">write</text>
+        <text x="898.579px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">(</text>
+        <text x="926.07px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">1</text>
+        <text x="953.56px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">,</text>
+        <text x="1008.54px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x80484e0</text>
+        <text x="1255.95px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">,</text>
+        <text x="1310.93px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(102,163,116);">0x24</text>
+        <text x="1420.89px" y="1857.58px" style="font-family:'Consolas', monospace;font-size:50px;fill:rgb(6,4,4);">)</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="271px" height="212px" xlink:href="data:image/png;base64,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"/>
+        <image id="_Image2" width="271px" height="82px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>
